@@ -60,7 +60,7 @@ plugins:
 
 author:
   #name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/github profile image.png"
   bio    : "Edinburgh-based pixel artist."
   links:
    # - label: "Website"
